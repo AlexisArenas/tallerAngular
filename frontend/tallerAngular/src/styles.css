@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px 0;
+    color: #707070;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 450;
+}
+
+.value {
+    color: #166f83;
+}
+
+.total {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+nav {
+    padding: 0 20px;
+    background: #025e73;
+}
+
+.contend {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.img {
+    width: 500px;
+}
+
+.img img {
+    width: 100%;
+}
+
+.bookDetail {
+    width: 500px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.description {
+    height: 75%;
+    margin: 20px;
+}
+
+.info-price {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.qty {
+    text-align: right;
+    font-weight: bold;
+}
